@@ -1,9 +1,0 @@
-{
-  "devDependencies": {
-    "gh-pages": "^6.1.1"
-  },
-  "homepage": "https://linda-yulu.github.io/react-project",
-  "scripts": {
-    "deploy": "gh-pages -d build"
-  }
-}
